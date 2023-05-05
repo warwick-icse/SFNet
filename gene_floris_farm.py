@@ -25,7 +25,7 @@ def generation(wind_speed):
         for y in range(10):
             flow_field[x * 10 + y] = Zm[5 + 30 * x:5 + 30 * (x + 1), 10 + 50 * y:10 + 50 * (y + 1)].reshape(1500)
 
-    file_name = './generation/U' + str(wind_speed) + '_windfarm.csv'
+    file_name = './floris_data/U' + str(wind_speed) + '_windfarm.csv'
     with open(file_name, "w") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow([str(i) for i in range(1500)])

@@ -46,7 +46,7 @@ class FarmDataset(Dataset):
             ToTensor()
         ])
 
-        self.flow_field_low = pd.read_csv('generation/U{}_windfarm.csv'.format(str(wind_speed))).values
+        self.flow_field_low = pd.read_csv('floris_data/U{}_windfarm.csv'.format(str(wind_speed))).values
 
         # Thses parameters are calculated based on our training and testing dataset
         self.mean_high = 7.628027139607034
