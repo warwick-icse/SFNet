@@ -8,11 +8,11 @@ This project (SFNet) is the pretrained model and test code for [Multi-fidelity m
 
 ## Requirements
 
-python==3.6.13
-torch==1.10.2
-torchvision==0.11.3
-floris==2.4
-pandas==1.1.5
+python==3.6.13  <br />  <br />
+torch==1.10.2  <br />
+torchvision==0.11.3  <br />
+floris==2.4  <br />
+pandas==1.1.5  <br />
 numpy==1.19.5
 
 ## Citation
