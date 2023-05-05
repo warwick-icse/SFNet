@@ -14,7 +14,15 @@ This project (SFNet) is the pretrained model and test code for [Multi-fidelity m
 
 If you find this project useful in your research, please consider citing our paper：
 
-Li, Rui, Jincheng Zhang, and Xiaowei Zhao. "Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network." Energy Conversion and Management 270 (2022): 116185.
+@article{li2022multi,
+  title={Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network},
+  author={Li, Rui and Zhang, Jincheng and Zhao, Xiaowei},
+  journal={Energy Conversion and Management},
+  volume={270},
+  pages={116185},
+  year={2022},
+  publisher={Elsevier}
+}
 
 ## Acknowledgement
 
