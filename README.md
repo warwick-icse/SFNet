@@ -23,7 +23,7 @@ Or you can generate your own data using ```gene_floris_farm.py```.
 
 ## Results
 
-<img src="https://github.com/warwick-icse/SFNet/blob/main/result/floris.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-3.png" width="180" height="105"><img src="https://github.com/warwick-icse/SFNet/blob/main/result/sfnet.png" width="180" height="105"/>
+<img src="https://github.com/warwick-icse/SFNet/blob/main/result/floris.png"><img src="https://github.com/warwick-icse/SFNet/blob/main/result/sfnet.png"/>
 
 ## Citation
 
