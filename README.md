@@ -8,7 +8,12 @@ This project (SFNet) is the pretrained model and test code for [Multi-fidelity m
 
 ## Requirements
 
-This project (SFNet) is the pretrained model and test code for [Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network](https://www.sciencedirect.com/science/article/pii/S0196890422009633).
+python==3.6.13
+torch==1.10.2
+torchvision==0.11.3
+floris==2.4
+pandas==1.1.5
+numpy==1.19.5
 
 ## Citation
 
@@ -28,4 +33,4 @@ If you find this project useful in your research, please consider citing our pap
 ## Acknowledgement
 
 - [SOWFA](https://www.nrel.gov/wind/nwtc/sowfa.html)
-- [floris](https://github.com/NREL/floris)
+- [FLORIS](https://github.com/NREL/floris)
