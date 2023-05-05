@@ -15,14 +15,14 @@ This project (SFNet) is the pretrained model and test code for [Multi-fidelity m
 If you find this project useful in your research, please consider citing our paper：
 
 @article{ <br />
-&ensp; &ensp; li2022multi,  <br />
-&ensp; &ensp; title={Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network}, <br />
-&ensp; &ensp; author={Li, Rui and Zhang, Jincheng and Zhao, Xiaowei}, <br />
-&ensp; &ensp; journal={Energy Conversion and Management}, <br />
-&ensp; &ensp; volume={270}, <br />
-&ensp; &ensp; pages={116185}, <br />
-&ensp; &ensp; year={2022}, <br />
-&ensp; &ensp; publisher={Elsevier} <br />
+&ensp; &ensp; &ensp; &ensp; li2022multi,  <br />
+&ensp; &ensp; &ensp; &ensp; title={Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network}, <br />
+&ensp; &ensp; &ensp; &ensp; author={Li, Rui and Zhang, Jincheng and Zhao, Xiaowei}, <br />
+&ensp; &ensp; &ensp; &ensp; journal={Energy Conversion and Management}, <br />
+&ensp; &ensp; &ensp; &ensp; volume={270}, <br />
+&ensp; &ensp; &ensp; &ensp; pages={116185}, <br />
+&ensp; &ensp; &ensp; &ensp; year={2022}, <br />
+&ensp; &ensp; &ensp; &ensp; publisher={Elsevier} <br />
 }
 
 ## Acknowledgement
